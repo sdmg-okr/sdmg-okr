@@ -1,0 +1,7 @@
+http://example.com/gallery/index.html
+http://example.com/2022/11/18/hello-world/
+http://example.com/gallery/dating02/index.html
+http://example.com/gallery/dating03/index.html
+http://example.com/gallery/dating01/index.html
+http://example.com/guestbook/index.html
+http://example.com/
